@@ -25,6 +25,7 @@ main > img {
   width: 1000px;
   display: block;
   margin: auto;
+  padding: 2.5rem 2.5rem;
 }
 
 li > a > img {
