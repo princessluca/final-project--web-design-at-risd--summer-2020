@@ -29,3 +29,21 @@ main > img {
 li > a > img {
   width: 260px;
 }
+
+ul > li:first-of-type {
+  position: fixed;
+  top: 8rem;
+  left: 8rem;
+}
+
+ul > li:nth-child(2) {
+  position: fixed;
+  bottom: 13rem;
+  right: 13rem;
+}
+
+ul > li:last-of-type {
+  position: fixed;
+  top: 8rem;
+  right: 8rem;
+}
