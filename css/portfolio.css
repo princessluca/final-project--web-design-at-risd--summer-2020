@@ -107,6 +107,12 @@ main > div:nth-child(16) {
   padding-bottom: 2rem;
 }
 
+main > span {
+  position: absolute;
+  top: 137rem;
+  right: 10rem;
+}
+
 a {
   position: fixed;
   top: 26rem;
