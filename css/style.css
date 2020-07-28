@@ -21,3 +21,7 @@ main > img {
   display: block;
   margin: auto;
 }
+
+li > a > img {
+  width: 260px;
+}
