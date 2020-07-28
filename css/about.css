@@ -1,3 +1,7 @@
+html {
+  background-color: rgb(255, 239, 213);
+}
+
 p {
   font-family: 'Cormorant Garamond', serif;
   font-size: 1.3rem;
