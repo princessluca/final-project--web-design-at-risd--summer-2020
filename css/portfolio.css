@@ -107,3 +107,8 @@ main > div:nth-child(16) {
   padding-bottom: 2rem;
 }
 
+a {
+  position: fixed;
+  top: 26rem;
+  right: 27rem;
+}
