@@ -34,18 +34,18 @@ li > a > img {
 
 ul > li:first-of-type {
   position: fixed;
-  top: 8rem;
-  left: 8rem;
+  top: 3.5rem;
+  left: 0.7rem;
 }
 
 ul > li:nth-child(2) {
   position: fixed;
-  bottom: 13rem;
-  right: 13rem;
+  bottom: 2rem;
+  right: 0.2rem;
 }
 
 ul > li:last-of-type {
   position: fixed;
-  top: 8rem;
+  top: 12rem;
   right: 8rem;
 }
