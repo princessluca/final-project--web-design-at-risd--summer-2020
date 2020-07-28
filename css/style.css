@@ -16,7 +16,7 @@ a {
   color: #000;
 }
 
-img {
+main > img {
   width: 1000px;
   display: block;
   margin: auto;
