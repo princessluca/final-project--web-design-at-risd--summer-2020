@@ -5,4 +5,15 @@ html {
 p {
   font-family: 'Cormorant Garamond', serif;
   font-size: 1.3rem;
+  text-align: center;
+  margin: auto;
+  padding: 10rem 10rem;
+}
+
+a {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  top: calc(50% - 66.5px);
+  left: calc(50% - 72px);
 }
